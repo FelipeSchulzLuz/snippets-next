@@ -17,5 +17,4 @@ model Snippet {
   updatedAt DateTime @updatedAt
   title String
   code String
-  notes String?
 }
